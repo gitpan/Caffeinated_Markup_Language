@@ -24,4 +24,4 @@ requires:
   Moo: 1.003001
   Readonly: 1.03
   boolean: 0.30
-version: 0.11
+version: v0.11.1
